@@ -5,7 +5,8 @@ I thrive on solving complex problems and building software that creates real-wor
 My Hobbies are<br>
 1.Learning Japanese Language<br>
 2.Motovlogging and Photography<br>
-3.Playing Badminton and Chess Tournaments
+3.Winning Badminton and Chess Tournaments<br>
+4.Travelling the Globe
 
 
 ## 🌐 Socials:
