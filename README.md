@@ -6,7 +6,7 @@ My Hobbies are<br>
 1.Learning Japanese Language<br>
 2.Motovlogging and Photography<br>
 3.Winning Badminton and Chess Tournaments<br>
-4.Travelling the Globe
+4.Travelling across the Globe
 
 
 ## 🌐 Socials:
