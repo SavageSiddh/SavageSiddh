@@ -2,9 +2,9 @@
 Hi, I'm an aspiring Software Developer pursuing a B.Tech at IIT Madras.<br>
 I thrive on solving complex problems and building software that creates real-world impact.
 
-My Hobbies are
-1.Learning Japanese Language
-2.Motovlogging and Photography
+My Hobbies are<br>
+1.Learning Japanese Language<br>
+2.Motovlogging and Photography<br>
 3.Playing Badminton and Chess Tournaments
 
 
