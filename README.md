@@ -2,6 +2,11 @@
 Hi, I'm an aspiring Software Developer pursuing a B.Tech at IIT Madras.<br>
 I thrive on solving complex problems and building software that creates real-world impact.
 
+My Hobbies are
+1.Learning Japanese Language
+2.Motovlogging and Photography
+3.Playing Badminton and Chess Tournaments
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddhantlondhe/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddhantlondhe507@gmail.com) 
